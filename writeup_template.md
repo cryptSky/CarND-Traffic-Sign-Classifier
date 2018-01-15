@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [04]: ./04.png "Traffic Sign 4"
 [05]: ./05.png "Traffic Sign 5"
 
-Link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+Link to my [project code](https://github.com/cryptSky/CarND-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
