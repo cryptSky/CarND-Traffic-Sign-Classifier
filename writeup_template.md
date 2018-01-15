@@ -18,13 +18,13 @@ The goals / steps of this project are the following:
 [grayscale]: ./grayscale.png "Greyscale image"
 [final]: ./final.png "Final image before feeding it into neural net"
 
-[01]: ./01.png "Traffic Sign 1"
-[02]: ./02.png "Traffic Sign 2"
-[03]: ./03.png "Traffic Sign 3"
-[04]: ./04.png "Traffic Sign 4"
-[05]: ./05.png "Traffic Sign 5"
+[01]: ./01.jpg "Traffic Sign 1"
+[02]: ./02.jpg "Traffic Sign 2"
+[03]: ./03.jpg "Traffic Sign 3"
+[04]: ./04.jpg "Traffic Sign 4"
+[05]: ./05.jpg "Traffic Sign 5"
 
-Link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+Link to my [project code](https://github.com/cryptSky/CarND-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
